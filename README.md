@@ -42,8 +42,8 @@ const Ramjan_Ali = {
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Ramjan-Ali&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Md-Ramjan-Ali?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ramjan-devs&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ramjan-devs?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
 
@@ -96,20 +96,20 @@ const Ramjan_Ali = {
 ## GitHub Stats:
 
 <div align="center">
-  <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Md-Ramjan-Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ramjan-Ali&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ramjan-devs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49.5%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramjan-devs&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
   
-   <img width="100%" style="height: 200px;" src="https://nirzak-streak-stats.vercel.app/?user=Md-Ramjan-Ali&theme=dark&hide_border=false" />
+   <img width="100%" style="height: 200px;" src="https://nirzak-streak-stats.vercel.app/?user=ramjan-devs&theme=dark&hide_border=false" />
 </div>
 
 ## Github Trophy:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     
-   <img src="https://github-profile-trophy.vercel.app/?username=Md-Ramjan-Ali&margin-w=20&margin-h=20" alt="Md-Ramjan-Ali" />
+   <img src="https://github-profile-trophy.vercel.app/?username=ramjan-devs&margin-w=20&margin-h=20" alt="ramjan-devs" />
   </a>
 </p>
 
